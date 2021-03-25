@@ -9,11 +9,24 @@ https://kth.se/orcid
 Example of an ORCiD profile page:      
 https://orcid.org/0000-0002-4858-8056
 
-##
+## ResearchGate
+
+[ResearchGate Getting Started](https://explore.researchgate.net/display/support/Getting+started)     
+
+Why Do Academics Use Academic Social Networking Sites?  Meishar-Tal, H., & Pieterse, E. (2017). The International Review of Research in Open and Distributed Learning, 18(1). https://doi.org/10.19173/irrodl.v18i1.2643
+
+Bhardwaj, R. K. (2017). Academic social networking sites. Information and Learning Science, 118(5/6), 298–316. https://doi.org/10.1108/ils-03-2017-0012
+
+ResearchGate: RG Score explained
+
+ResearchGate: Research Interest Score explained
+
+ResearchGate: h-index explained
 
 
+## Twitter     
 
-##
+https://blogs.lse.ac.uk/impactofsocialsciences/files/2011/11/Published-Twitter_Guide_Sept_2011.pdf
 
 
 
