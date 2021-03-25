@@ -1,13 +1,19 @@
 # Visibility
  About how to make research visible - the case of articles
 
-## Register your ORCiD to your KTH-ID
+## Register your ORCiD and connect it to your KTH-ID
 
 Register here:     
 https://kth.se/orcid
 
 Example of an ORCiD profile page:      
 https://orcid.org/0000-0002-4858-8056
+
+## Google Scholar Profiles
+
+[Boost your academic profile: Create a Google Scholar Profile](https://libguides.reading.ac.uk/boost/google-scholar-profile)
+
+
 
 ## ResearchGate
 
