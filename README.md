@@ -3,8 +3,7 @@
 
 ## Register your ORCiD and connect it to your KTH-ID
 
-Register here:     
-https://kth.se/orcid
+Register here: https://kth.se/orcid
 
 [Example of an ORCiD profile page](https://orcid.org/0000-0002-4858-8056)      
 
