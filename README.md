@@ -38,8 +38,6 @@ Bhardwaj, R. K. (2017). Academic social networking sites. Information and Learni
 
 [How to use Twitter to further your research career  (An easy-to-read column from Nature, 2019)](https://www.nature.com/articles/d41586-019-00535-w)     
 
-[Published!  (Taylor & Francis gives instructions on what you can do to communicate your research once you have been published)](https://authorservices.taylorandfrancis.com/category/published/)     
-
 [Helping Scientists: Increasing visibility and impact of research  (Blog entry by Tamika Heiden in “Elephant in the Lab”, 17 July 2019](https://elephantinthelab.org/helping-scientists-increasing-visibility-and-impact-of-research/)     
 
  
