@@ -17,9 +17,9 @@ Why Do Academics Use Academic Social Networking Sites?  Meishar-Tal, H., & Piete
 
 Bhardwaj, R. K. (2017). Academic social networking sites. Information and Learning Science, 118(5/6), 298–316. https://doi.org/10.1108/ils-03-2017-0012
 
-[ResearchGate: RG Score explained](https://explore.researchgate.net/display/support/RG+Score)
-[ResearchGate: Research Interest Score explained](https://explore.researchgate.net/display/support/Research+Interest)
-[ResearchGate: h-index explained](https://explore.researchgate.net/display/support/h-index)
+[ResearchGate: RG Score explained](https://explore.researchgate.net/display/support/RG+Score)     
+[ResearchGate: Research Interest Score explained](https://explore.researchgate.net/display/support/Research+Interest)     
+[ResearchGate: h-index explained](https://explore.researchgate.net/display/support/h-index)     
 
 
 ## Twitter     
