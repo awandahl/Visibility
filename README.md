@@ -6,16 +6,19 @@
 Register here:     
 https://kth.se/orcid
 
-Example of an ORCiD profile page:      
-https://orcid.org/0000-0002-4858-8056
+[Example of an ORCiD profile page](https://orcid.org/0000-0002-4858-8056)      
 
 ## Google Scholar Profiles
+
+[Example of a Google Scholar profile page](https://scholar.google.com/citations?user=s8NSQyMAAAAJ&hl=en&oi=ao)     
 
 [Boost your academic profile: Create a Google Scholar Profile](https://libguides.reading.ac.uk/boost/google-scholar-profile)      
 [Google Scholar Profiles - Help at Google](https://scholar.google.com/intl/en/scholar/citations.html#overview)     
 
 
 ## ResearchGate
+
+[Example of a ResearchGate profile page](https://www.researchgate.net/profile/Wouter-Wijngaart)       
 
 [ResearchGate Getting Started](https://explore.researchgate.net/display/support/Getting+started)     
 [ResearchGate: RG Score explained](https://explore.researchgate.net/display/support/RG+Score)     
@@ -41,12 +44,7 @@ Bhardwaj, R. K. (2017). Academic social networking sites. Information and Learni
 [Helping Scientists: Increasing visibility and impact of research  (Blog entry by Tamika Heiden in “Elephant in the Lab”, 17 July 2019](https://elephantinthelab.org/helping-scientists-increasing-visibility-and-impact-of-research/)     
 
  
-##
+##  Altmetrics - measuring societal impact
 
-
-
-##
-
-
-
+[Atmetric.com](https://www.altmetric.com/)     
 
