@@ -11,7 +11,7 @@ https://orcid.org/0000-0002-4858-8056
 
 ## Google Scholar Profiles
 
-[Boost your academic profile: Create a Google Scholar Profile](https://libguides.reading.ac.uk/boost/google-scholar-profile)
+[Boost your academic profile: Create a Google Scholar Profile](https://libguides.reading.ac.uk/boost/google-scholar-profile)      
 [Google Scholar Profiles - Help at Google](https://scholar.google.com/intl/en/scholar/citations.html#overview)     
 
 
