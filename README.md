@@ -11,9 +11,11 @@ Register here: https://kth.se/orcid
 
 [Example of a Google Scholar profile page](https://scholar.google.com/citations?user=s8NSQyMAAAAJ&hl=en&oi=ao)     
 
-[Boost your academic profile: Create a Google Scholar Profile](https://libguides.reading.ac.uk/boost/google-scholar-profile)      
+[Boost your academic profile: Create a Google Scholar Profile](https://libguides.reading.ac.uk/boost/google-scholar-profile)     
+
 [Google Scholar Profiles - Help at Google](https://scholar.google.com/intl/en/scholar/citations.html#overview)     
 
+[IB Ethics: How to Keep Your Google Scholar Profile Clean](https://www.aib.world/ethics-blog/ib-ethics-how-to-keep-your-google-scholar-profile-clean/)
 
 ## ResearchGate
 
