@@ -5,7 +5,16 @@
 
 Register here: https://kth.se/orcid
 
-[Example of an ORCiD profile page](https://orcid.org/0000-0002-4858-8056)      
+[Example of an ORCiD profile page](https://orcid.org/0000-0002-4858-8056)     
+
+## KTH profile page     
+
+Example: https://www.kth.se/profile/wouter  
+ - Tell about yourself and your research
+ - Be bold about your accomplishments
+ - Link to your researcher id:s
+ - Link to your other profile pages
+ - Add a publication list (from DiVA)
 
 ## Google Scholar Profiles
 
@@ -16,6 +25,12 @@ Register here: https://kth.se/orcid
 [Google Scholar Profiles - Help at Google](https://scholar.google.com/intl/en/scholar/citations.html#overview)     
 
 [IB Ethics: How to Keep Your Google Scholar Profile Clean](https://www.aib.world/ethics-blog/ib-ethics-how-to-keep-your-google-scholar-profile-clean/)
+
+## Other profile pages
+
+- Semantic Scholar [Example](https://www.semanticscholar.org/author/Wouter-van-der-Wijngaart/3010740)
+- Frontiers Loop Profile [Example](https://loop.frontiersin.org/people/69/overview)
+- 
 
 ## ResearchGate
 
@@ -37,8 +52,6 @@ Bhardwaj, R. K. (2017). Academic social networking sites. Information and Learni
 [The A to Z of social media for academia  (Andy Miah 2017, Times Higher Education)](https://www.timeshighereducation.com/a-z-social-media)     
 
 [Using Twitter in university research, teaching, and impact activities (London School of Economics ; a bit old (2011) but still relevant)](https://blogs.lse.ac.uk/impactofsocialsciences/files/2011/11/Published-Twitter_Guide_Sept_2011.pdf)     
-
-[How to be productive on Twitter with Ben Libberton (Former postdoctoral researcher Karolinska Insitutet, now freelance Science Communicator)](https://www.youtube.com/watch?v=uyJvUvguQck)     
 
 [How to use Twitter to further your research career  (An easy-to-read column from Nature, 2019)](https://www.nature.com/articles/d41586-019-00535-w)     
 
