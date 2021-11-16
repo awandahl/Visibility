@@ -1,4 +1,4 @@
-# Tesearch and Publications Visibility
+# Research and Publications Visibility
  About how to make research visible - the case of articles
 
 ## Register your ORCiD and connect it to your KTH-ID
