@@ -43,7 +43,7 @@ Why Do Academics Use Academic Social Networking Sites?  Meishar-Tal, H., & Piete
 
 Bhardwaj, R. K. (2017). Academic social networking sites. Information and Learning Science, 118(5/6), 298–316. https://doi.org/10.1108/ils-03-2017-0012
 
-## Enhance your visibility : Social Media for Researchers/Academics
+## Readings about how to enhance your visibility : Social Media for Researchers/Academics
 
 [Five ways to increase the visibility of your research  (Maastricht University)](https://library.maastrichtuniversity.nl/five-ways-increase-visibility-research/)     
 [The A to Z of social media for academia  (Andy Miah 2017, Times Higher Education)](https://www.timeshighereducation.com/a-z-social-media)     
