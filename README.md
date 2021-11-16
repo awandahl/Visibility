@@ -28,9 +28,10 @@ Example: https://www.kth.se/profile/wouter
 
 ## Other profile pages
 
-- Semantic Scholar [Example](https://www.semanticscholar.org/author/Wouter-van-der-Wijngaart/3010740)
-- Frontiers Loop Profile [Example](https://loop.frontiersin.org/people/69/overview)
-- 
+- Semantic Scholar [Example](https://www.semanticscholar.org/author/Wouter-van-der-Wijngaart/3010740)    
+- Frontiers Loop Profile [Example](https://loop.frontiersin.org/people/69/overview)    
+- MDPI SciProfiles [Example](https://sciprofiles.com/profile/saladino)    
+- Kudos [Example](https://www.growkudos.com/profile/mats_magnusson)
 
 ## ResearchGate
 
